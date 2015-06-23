@@ -1,0 +1,14 @@
+{
+    "name": "brackets-folders-first",
+    "title": "Folders First",
+    "description": "Sort folders first in the sidebar on OS X.",
+    "homepage": "https://github.com/tymphillips/brackets-folders-first",
+    "version": "0.1.0",
+    "author": "Tym Phillips",
+    "keywords": ["folders", "sort", "first"],
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.38.0"
+    },
+    "contributors": [{"name": "Tym Phillips"}, {"email": "tymphillips@gmail.com"}]
+}
