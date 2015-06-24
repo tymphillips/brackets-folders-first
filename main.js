@@ -1,6 +1,6 @@
 /*global define, brackets */
 
-define(function (require) {
+define(function () {
     'use strict';
     var PreferencesManager = brackets.getModule("preferences/PreferencesManager");
     
